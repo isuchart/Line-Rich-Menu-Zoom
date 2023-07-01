@@ -16,5 +16,7 @@ https://drive.google.com/file/d/1qX-EahkBaOlQzRlx93X1i2kriPDMIJQi/view?usp=shari
 
 #ลิงค์ไฟล์ วีดีโอการสอน (One Drive) : https://1drv.ms/v/s!AgLYj6x9tfAnjD6ZvApp3Eeu8bWH?e=twf6Uc
 
+#Youtube: https://youtu.be/Y9jLRknr1Gw
+
 
 
