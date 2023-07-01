@@ -18,5 +18,9 @@ https://drive.google.com/file/d/1qX-EahkBaOlQzRlx93X1i2kriPDMIJQi/view?usp=shari
 
 #Youtube: https://youtu.be/Y9jLRknr1Gw
 
+คำแนะนำ 
+1. ดาวน์โหลดทุกอย่างให้ครบก่อนเริ่มเรียนรู้ตามคลิปวีดีโอ และ อย่าลืมเตรียม Chanal Access Token ของ Line OA ให้พร้อมว่าจะสร้างกับบอทตัวใหน
+2. ฝึกทำตามในขั้นตอน Postman ตั้งแต่แรกให้เข้าใจก่อน
+3. import json ที่ได้จากการดาวน์โหลดมา ลงใน postman โดยดูวิธีการ import และการสร้าง colection ในเอกสารประกอบให้เข้าใจก่อน
 
 
