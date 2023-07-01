@@ -9,6 +9,9 @@
 
 PDF : https://drive.google.com/file/d/1awge3znjlIpbzmGU2G4VOj4r8oUxwXhH/view?usp=sharing
 
+PDF สอนการ import JSON เข้า Postman
+https://drive.google.com/file/d/1qX-EahkBaOlQzRlx93X1i2kriPDMIJQi/view?usp=sharing
+
 ลิงค์ไฟล์ Script + รูปภาพ + pdf + ไฟล์ Json สำหรับ import ใส่ Postman : https://drive.google.com/drive/folders/1mJ8lwkTXNuTitr9fqt_Gqk9OJAKB3kAp
 
 
